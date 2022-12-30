@@ -1,4 +1,4 @@
-# [CLICK HERE FOR ANALYSIS](https://nbviewer.org/github/andrewt2470/life-expectancy-regression-analysis/blob/master/Use_Link_below_Life_expectancy.html)
+# [CLICK HERE FOR ANALYSIS](https://nbviewer.org/gist/andrewt2470/b8d663fbad23e78b6ccb63b5ecd20a15)
 
 ## life-expectancy-regression-analysis
 
