@@ -1,5 +1,6 @@
-## life-expectancy-regression-analysis (USE LINK BELOW)
 # [CLICK HERE FOR ANALYSIS](https://nbviewer.org/github/andrewt2470/life-expectancy-regression-analysis/blob/master/Use_Link_below_Life_expectancy.html)
+
+## life-expectancy-regression-analysis
 
 This analysis will use python to explore the relationship between several factors, and life expectancy.
 
