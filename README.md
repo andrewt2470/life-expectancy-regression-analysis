@@ -1,4 +1,4 @@
-# [CLICK HERE FOR ANALYSIS](https://nbviewer.org/gist/andrewt2470/b8d663fbad23e78b6ccb63b5ecd20a15)
+# [CLICK HERE FOR ANALYSIS](https://nbviewer.org/gist/andrewt2470/98c59b3937c0c8cadb54d76c0b5675a1)
 
 ## life-expectancy-regression-analysis
 
