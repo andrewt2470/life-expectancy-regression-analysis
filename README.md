@@ -2,7 +2,7 @@
 
 ## life-expectancy-regression-analysis
 
-This analysis will use python to explore the relationship between several factors, and life expectancy.
+This analysis will use python to explore the relationship between several factors, and life expectancy. This dataset derives from the World Health Organization's research
 
 Questions that need answers:
 
